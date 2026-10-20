@@ -1,3 +1,5 @@
+<sub>🇬🇧 English · [🇫🇷 Français](README.fr.md)</sub>
+
 # Swifties Charts
 
 **A live data platform for Taylor Swift fans: daily streaming stats, worldwide charts and fan games, updated automatically every day.**
